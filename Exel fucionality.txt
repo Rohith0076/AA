@@ -1,0 +1,4 @@
+1.Vlookup,Hlookup,combination
+2.duplicate data removal,identification
+3.triming data
+4.formats(ex-date,datas type)
